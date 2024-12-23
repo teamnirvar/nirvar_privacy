@@ -93,6 +93,6 @@ We may update this Privacy Policy periodically. If there are material changes, w
 
 ## 12. Contact Us
 
-If you have any questions, concerns, or feedback about this Privacy Policy or Nirvar’s data practices, please contact us at [Insert Contact Information].
+If you have any questions, concerns, or feedback about this Privacy Policy or Nirvar’s data practices, please contact us at teamnirvar@gmail.com.
 
 By using Nirvar, you acknowledge that you have read and understood this Privacy Policy and agree to the terms herein.
